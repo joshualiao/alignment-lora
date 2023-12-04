@@ -1,7 +1,7 @@
 Distributional Alignment with LoRA to Larger Models
 
 CS182
-[joshua.liao, bplate, carolinewu01, patrickgu] @berkeley.edu
+{joshua.liao, bplate, carolinewu01, patrickgu}@berkeley.edu
 
 Code adapted from https://github.com/cloneofsimo/lora.
 
