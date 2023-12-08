@@ -5,6 +5,8 @@ CS182
 
 Code adapted from https://github.com/cloneofsimo/lora.
 
+For results and analysis, please read pdf file "Project Report"
+
 # Installation
 
 ```
